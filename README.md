@@ -1,2 +1,2 @@
 # Parsers_for_clash
-自用Clash的预处理配置文件（parsers）
+自用Clash配置文件
