@@ -167,8 +167,6 @@ parsers: # array
         
   # 添加规则
       prepend-rules: # 规则由上往下遍历，如上面规则已经命中，则不再往下处理
-        - DOMAIN-SUFFIX,jdev.tw,🔰 选择节点
-        - DOMAIN-SUFFIX,omnivore.app,🔰 选择节点
         - RULE-SET,youtube,🎎 YouTube
         - RULE-SET,netflix,📽 Netflix
         - RULE-SET,openai,🤖 OpenAI
